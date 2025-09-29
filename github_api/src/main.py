@@ -2,7 +2,6 @@ import asyncio
 import time
 
 from rich.console import Console
-from rich.markup import escape
 from rich.progress import Progress, SpinnerColumn, TextColumn
 
 from config import ORG
